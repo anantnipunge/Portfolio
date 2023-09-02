@@ -3,7 +3,7 @@
 
 ## Some Images:
 
-![image](https://github.com/anantnipunge/Portfolio_website/assets/82041920/a4786f4d-a70f-4825-93b7-40cac04070be)
+![image](https://github.com/anantnipunge/Portfolio/assets/82041920/8ed43d6d-38bd-43fb-981e-a5cfaa6ed416)
 
 
 ## Table of Contents

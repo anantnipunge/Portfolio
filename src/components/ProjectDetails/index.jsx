@@ -33,14 +33,14 @@ position: relative;
 `;
 
 const Title = styled.div`
-  font-size: 28px;
-  font-weight: 600;
-  color: ${({ theme }) => theme.text_primary};
-  margin: 8px 6px 0px 6px;
-  @media only screen and (max-width: 600px) {
-      font-size: 24px;
-      margin: 6px 6px 0px 6px;
-  }
+font-size: 28px;
+font-weight: 600;
+color: ${({ theme }) => theme.text_primary};
+margin: 8px 6px 0px 6px;
+@media only screen and (max-width: 600px) {
+    font-size: 24px;
+    margin: 6px 6px 0px 6px;
+}
 `;
 
 const Date = styled.div`

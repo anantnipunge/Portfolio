@@ -289,7 +289,7 @@ export const projects = [
     title: "Portfolio",
     date: "Aug 2023 - sept 2023",
     description: "My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.",
-    image: "https://github.com/anantnipunge/Portfolio_website/assets/82041920/a4786f4d-a70f-4825-93b7-40cac04070be",
+    image: "https://github.com/anantnipunge/Portfolio/assets/82041920/8ed43d6d-38bd-43fb-981e-a5cfaa6ed416",
     tags: [
       "React.js",
       "Material-UI",
@@ -300,8 +300,8 @@ export const projects = [
       "Git",
       "email.js"
     ],
-    category: "android app",
-    github: "https://github.com/anantnipunge/Plantix_app",
+    category: "web app",
+    github: "https://github.com/anantnipunge/Portfolio",
     webapp: "",
     activeStatus: "true",
   },
@@ -309,8 +309,7 @@ export const projects = [
     id: 0,
     title: "Magnify",
     date: "Apr 2023 - May 2023",
-    description:
-      "Developed a chrome extension which is primarily built for the productivity purpose of all the chrome users.Users can see the time that they have spent on the various websites. It has a dynamic functionality that it resumes the time for the reopened website.(that was closed previously). \n Future scope/plan: Create user profile session and load it to the MongoDB database. History of the particular user gets stored into the database and we will use it for the dataset purpose.It Will help us to predict the user's work and behavior.",
+    description: "Developed a chrome extension which is primarily built for the productivity purpose of all the chrome users.Users can see the time that they have spent on the various websites. It has a dynamic functionality that it resumes the time for the reopened website.(that was closed previously). \n Future scope/plan: Create user profile session and load it to the MongoDB database. History of the particular user gets stored into the database and we will use it for the dataset purpose.It Will help us to predict the user's work and behavior.",
     image: "https://user-images.githubusercontent.com/82041920/265200189-e3932b78-1534-468d-a8cd-0ca960da2189.png",
     tags: ["Javascript", "HTML", "Styled CSS", "React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
@@ -319,7 +318,7 @@ export const projects = [
     member: [
       {
         name: "Anant Nipunge",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        img: "https://avatars.githubusercontent.com/u/82041920?s=400&u=01e7dcb27a1c1b8f4e50b467eb990168fcfea3c1&v=4",
         linkedin: "https://www.linkedin.com/in/anant-nipunge-b89a791b3/",
         github: "https://github.com/anantnipunge/",
       },

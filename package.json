@@ -1,7 +1,7 @@
 {
   "name": "anant_nipunge_portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://anantnipunge.github.io/portfolio",
   "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -31,7 +31,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "publish": "gh-pages -d src"
   },
   "eslintConfig": {
     "extends": [

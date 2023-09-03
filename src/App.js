@@ -1,5 +1,5 @@
 import { ThemeProvider } from "styled-components";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { darkTheme, lightTheme } from './utils/Themes.js'
 import Navbar from "./components/Navbar";
 import './App.css';
@@ -31,7 +31,6 @@ function App() {
   console.log(openModal)
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
-      {/* add routing properly */}
       <Router >
         <Navbar />
         <Body>

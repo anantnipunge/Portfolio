@@ -7,10 +7,9 @@ export const Bio = {
     "Programmer",
     "Coder",
   ],
-  description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+  description:"I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/anantnipunge",
-  resume: "https://drive.google.com/file/d/1YUm6shDrDNAvMmjVbikNTHyk1ZU3EaJ2/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1jAdF3fzVM6SI02eUXlv0gUCv8n2NO5nJ/view?usp=sharing",
   YouTube: "https://www.youtube.com/channel/UCIz9Z9e8xB_7G7_5mRwxJ4Q",
   linkedin: "https://www.linkedin.com/in/anant-nipunge-717998206/",
   twitter: "https://twitter.com/NipungeAnant",

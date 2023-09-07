@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Live Link 
-![image](https://anantnipunge.github.io/portfolio/)
+![GO](https://anantnipunge.github.io/portfolio/)
 
 ## Some Images:
 

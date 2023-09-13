@@ -4,6 +4,7 @@
   "homepage": "https://anantnipunge.github.io/portfolio",
   "private": false,
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",

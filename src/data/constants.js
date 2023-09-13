@@ -182,7 +182,7 @@ export const experiences = [
     role: "Software Development Engineer(SDE) Intern",
     company: "Bitsmith Technologies Pvt. Ltd",
     date: "Jan 2023 - May 2023",
-    desc: ["Working on Flipr Platforms, Worked on Android products, added onboarding features and authentication on the app.", "Used AWS S3 for Community Integration, database deployment and storage.", "Worked on cloud base integration Designed and developed USP features for user selection (onboarding).", "Serverless image handling (CRUD operation on images) in AWS.", "Video features implementations like IG reels using Cloudflare’s video package"],
+    desc: ["Worked on Bitsmith Campus. which is a social media community network android platform.", "Added onboarding features and authentication on the app.", "Used AWS S3 for Community Integration, database deployment and storage.", "Worked on cloud base integration Designed and developed USP features for user selection (onboarding).", "Serverless image handling (CRUD operation on images) in AWS.", "Video features implementations like IG reels using Cloudflare’s video package"],
     skills: [
       "Flutter",
       "React.js",
@@ -284,6 +284,40 @@ export const projects = [
     activeStatus: "true",
   },
   {
+    id: 8,
+    title: "Chat App",
+    date: "Mar 2022 - May 2022",
+    description: "Web chat Application built using React.js and Ant Design. Backend is handled by ChatEngine.io. Here, you can chat with your friends in a group, Send photos and text messages. You can see online and offline users remove them from the chat at any time you want. • Username: John;  • Pass: 1234",
+    image:"https://github.com/anantnipunge/chat_Application/assets/82041920/036d3a95-dd34-4a28-8d11-4437b8c78ebe",
+    tags: [
+      "React.Js",
+      "Ant Design",
+      "Css5",
+      "ChatEngine.io",
+      "Hooks"
+    ],
+    category: "web app",
+    github: "https://github.com/anantnipunge/chat_Application",
+    webapp: "https://anantnipunge.github.io/chat_Application/",
+    activeStatus: "true",
+  },
+  {
+    id: 8,
+    title: "Food Truck",
+    date: "Sept 2023 - Sept 2023",
+    description: "This is a Frontend created for the freelance company. Chakra UI framework is used for making beautiful components.",
+    image:"https://github.com/anantnipunge/food_truck/assets/82041920/e1673034-961a-48ae-b8f8-eb9cffae4832",
+    tags: [
+      "React.Js",
+      "Chakra UI",
+      "Hooks"
+    ],
+    category: "web app",
+    github: "https://github.com/anantnipunge/food_truck",
+    webapp: "",
+    activeStatus: "true",
+  },
+  {
     id: 9,
     title: "Portfolio",
     date: "Aug 2023 - sept 2023",
@@ -301,7 +335,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/anantnipunge/Portfolio",
-    webapp: "",
+    webapp: "https://anantnipunge.github.io/portfolio/",
     activeStatus: "true",
   },
   {
@@ -363,9 +397,9 @@ export const projects = [
       },
       {
         name: "Samyak Burnure",
-        img: "",
-        linkedin: "",
-        github: "",
+        img: "https://media.licdn.com/dms/image/D5603AQFt1Ot84j-Fig/profile-displayphoto-shrink_800_800/0/1694467983878?e=1700092800&v=beta&t=fOfhlfpCU2QzYCbFua0NjTEgxhGH-ELnHh2aYhrRo6s",
+        linkedin: "https://www.linkedin.com/in/samyak-burnure-b2bb5324b",
+        github: "https://github.com/IamSamyak",
       },
     ],
     activeStatus: "false"
@@ -373,9 +407,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2020, text: "Started my journey" },
+  { year: 2021, text: "Worked on Java and DSA" },
+  { year: 2022, text: "Created several web projects" },
+  { year: 2023, text: "Worked as a SDE Intern at Bitsmith Technology" },
 ];

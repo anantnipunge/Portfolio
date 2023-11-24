@@ -7,9 +7,11 @@ export const Bio = {
     "Programmer",
     "Coder",
   ],
-  description:"I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+  description:
+    "Ambitious software engineering student adept in C++, Java, and JavaScript, showcased through achievements like a Leetcode Max Rating of 1810+ and worked on full-stack projects. Committed to delivering high-quality solutions, I bring an enthusiastic approach, a growth mindset, and a proven track record of active participation in open source projects.",
   github: "https://github.com/anantnipunge",
-  resume: "https://drive.google.com/file/d/1jAdF3fzVM6SI02eUXlv0gUCv8n2NO5nJ/view?usp=sharing",
+  resume:
+    "https://drive.google.com/file/d/1jAdF3fzVM6SI02eUXlv0gUCv8n2NO5nJ/view?usp=sharing",
   YouTube: "https://www.youtube.com/channel/UCIz9Z9e8xB_7G7_5mRwxJ4Q",
   linkedin: "https://www.linkedin.com/in/anant-nipunge-717998206/",
   twitter: "https://twitter.com/NipungeAnant",
@@ -60,11 +62,6 @@ export const skills = [
         image:
           "data:image/png;base64,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",
       },
-      {
-        name: "Flutter",
-        image:
-          "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
-      },
     ],
   },
   {
@@ -114,17 +111,17 @@ export const skills = [
       {
         name: "Flutter",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
       },
       {
-        name: "Cloud",
+        name: "AWS Cloud",
         image:
-          "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+          "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1651718cccc95df24af2423a690c4a17/aws-cloud.jpg",
       },
       {
         name: "VS Code",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png",
       },
       {
         name: "Android Studio",
@@ -149,7 +146,7 @@ export const skills = [
       {
         name: "Docker",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+          "https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png",
       },
       {
         name: "Netlify",
@@ -157,9 +154,9 @@ export const skills = [
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
       {
-        name: "VS Code",
+        name: "Intellij IDEA",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+          "https://www.aztek.co.il/wp-content/uploads/2022/05/IntelliJ_IDEA_Icon.svg_.png",
       },
       {
         name: "Postman",
@@ -170,6 +167,11 @@ export const skills = [
         name: "Figma",
         image:
           "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+      },
+      {
+        name: "MongoDB",
+        image:
+          "https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png",
       },
     ],
   },
@@ -182,7 +184,14 @@ export const experiences = [
     role: "Software Development Engineer(SDE) Intern",
     company: "Bitsmith Technologies Pvt. Ltd",
     date: "Jan 2023 - May 2023",
-    desc: ["Worked on Bitsmith Campus. which is a social media community network android platform.", "Added onboarding features and authentication on the app.", "Used AWS S3 for Community Integration, database deployment and storage.", "Worked on cloud base integration Designed and developed USP features for user selection (onboarding).", "Serverless image handling (CRUD operation on images) in AWS.", "Video features implementations like IG reels using Cloudflare’s video package"],
+    desc: [
+      "Worked on Bitsmith Campus. which is a social media community network android platform.",
+      "Added onboarding features and authentication on the app.",
+      "Used AWS S3 for Community Integration, database deployment and storage.",
+      "Worked on cloud base integration Designed and developed USP features for user selection (onboarding).",
+      "Serverless image handling (CRUD operation on images) in AWS.",
+      "Video features implementations like IG reels using Cloudflare’s video package",
+    ],
     skills: [
       "Flutter",
       "React.js",
@@ -190,7 +199,7 @@ export const experiences = [
       "EC2",
       "JavaScript",
       "Node Js",
-      "MongoDB"
+      "MongoDB",
     ],
     doc: " ",
   },
@@ -200,7 +209,10 @@ export const experiences = [
     role: "Educator Intern",
     company: "GenioBits Technologies Pvt. Ltd",
     date: "June 2023 - Present",
-    desc: ["Designed and developed a comprehensive curriculum for teaching Data Structures and Algorithms using C++ and Database Management System for third-year university students.", " Conducted recorded sessions to deliver lectures and practicals on the aforementioned topics to a diverse group of students, ensuring clear communication and understanding of complex concepts."],
+    desc: [
+      "Designed and developed a comprehensive curriculum for teaching Data Structures and Algorithms using C++ and Database Management System for third-year university students.",
+      " Conducted recorded sessions to deliver lectures and practicals on the aforementioned topics to a diverse group of students, ensuring clear communication and understanding of complex concepts.",
+    ],
     skills: [
       "DSA",
       "Communication",
@@ -218,7 +230,13 @@ export const experiences = [
     role: "Drifty • Open source contributor",
     company: "GenioBits Technologies Pvt. Ltd",
     date: "June 2023 - Present",
-    desc: [" Worked on a web project built using Java, which was a file downloading system", "Hacktoberfest 2022 Winner.", "Recognized as one of the top contributors of Drifty (open source community)", "front-end web development using HTML, CSS, ES6, JavaScript, Material-UI, React.js, and Node.js", "Added some cool features to the website to enhance its functionality."],
+    desc: [
+      " Worked on a web project built using Java, which was a file downloading system",
+      "Hacktoberfest 2022 Winner.",
+      "Recognized as one of the top contributors of Drifty (open source community)",
+      "front-end web development using HTML, CSS, ES6, JavaScript, Material-UI, React.js, and Node.js",
+      "Added some cool features to the website to enhance its functionality.",
+    ],
     skills: [
       "DSA",
       "Communication",
@@ -244,7 +262,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://methodistschool-dankuni.webs.com/NEW%20BADGE.jpg",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXjiBCVLS_wrV5o3wL0K-K1xNsZWDMz7mqw&usqp=CAU",
     school: "Trimurti Junior College",
     date: "Apr 2018 - Apr 2020",
     grade: "79.85%",
@@ -267,7 +285,8 @@ export const projects = [
     id: 9,
     title: "Plantix",
     date: "May 2023 - July 2023",
-    description: "Plantix is a Android application built using flutter. It works as a advisory application to the farmers, where farmers can purchase the products. It has a great social community section where farmers can interact with each other.",
+    description:
+      "Plantix is a Android application built using flutter. It works as a advisory application to the farmers, where farmers can purchase the products. It has a great social community section where farmers can interact with each other.",
     image:
       "https://private-user-images.githubusercontent.com/82041920/265223912-5b7a10cd-c5ec-4dcd-91c4-61f632800252.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTM2ODA4MzEsIm5iZiI6MTY5MzY4MDUzMSwicGF0aCI6Ii84MjA0MTkyMC8yNjUyMjM5MTItNWI3YTEwY2QtYzVlYy00ZGNkLTkxYzQtNjFmNjMyODAwMjUyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwOTAyVDE4NDg1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkNWJmYmJlOGY4ZDIyOGU5NzAzYTI5NWVkMGExZmJjNTJhNjA2NjQ0MzA2MDNiZDM3YmQ1YWVhZmFmOGVlYmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ZOYH0vnN9GsBXwcRnlUuWtJttYGstyKPhAlmsD93Z0k",
     tags: [
@@ -287,15 +306,11 @@ export const projects = [
     id: 8,
     title: "Chat App",
     date: "Mar 2022 - May 2022",
-    description: "Web chat Application built using React.js and Ant Design. Backend is handled by ChatEngine.io. Here, you can chat with your friends in a group, Send photos and text messages. You can see online and offline users remove them from the chat at any time you want. • Username: John;  • Pass: 1234",
-    image:"https://github.com/anantnipunge/chat_Application/assets/82041920/036d3a95-dd34-4a28-8d11-4437b8c78ebe",
-    tags: [
-      "React.Js",
-      "Ant Design",
-      "Css5",
-      "ChatEngine.io",
-      "Hooks"
-    ],
+    description:
+      "Web chat Application built using React.js and Ant Design. Backend is handled by ChatEngine.io. Here, you can chat with your friends in a group, Send photos and text messages. You can see online and offline users remove them from the chat at any time you want. • Username: John;  • Pass: 1234",
+    image:
+      "https://github.com/anantnipunge/chat_Application/assets/82041920/036d3a95-dd34-4a28-8d11-4437b8c78ebe",
+    tags: ["React.Js", "Ant Design", "Css5", "ChatEngine.io", "Hooks"],
     category: "web app",
     github: "https://github.com/anantnipunge/chat_Application",
     webapp: "https://anantnipunge.github.io/chat_Application/",
@@ -305,13 +320,11 @@ export const projects = [
     id: 8,
     title: "Food Truck",
     date: "Sept 2023 - Sept 2023",
-    description: "This is a Frontend created for the freelance company. Chakra UI framework is used for making beautiful components.",
-    image:"https://github.com/anantnipunge/food_truck/assets/82041920/e1673034-961a-48ae-b8f8-eb9cffae4832",
-    tags: [
-      "React.Js",
-      "Chakra UI",
-      "Hooks"
-    ],
+    description:
+      "This is a Frontend created for the freelance company. Chakra UI framework is used for making beautiful components.",
+    image:
+      "https://github.com/anantnipunge/food_truck/assets/82041920/e1673034-961a-48ae-b8f8-eb9cffae4832",
+    tags: ["React.Js", "Chakra UI", "Hooks"],
     category: "web app",
     github: "https://github.com/anantnipunge/food_truck",
     webapp: "",
@@ -321,8 +334,10 @@ export const projects = [
     id: 9,
     title: "Portfolio",
     date: "Aug 2023 - sept 2023",
-    description: "My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.",
-    image: "https://github.com/anantnipunge/Portfolio/assets/82041920/8ed43d6d-38bd-43fb-981e-a5cfaa6ed416",
+    description:
+      "My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.",
+    image:
+      "https://github.com/anantnipunge/Portfolio/assets/82041920/8ed43d6d-38bd-43fb-981e-a5cfaa6ed416",
     tags: [
       "React.js",
       "Material-UI",
@@ -331,7 +346,7 @@ export const projects = [
       "Javascript",
       "Style-Components",
       "Git",
-      "email.js"
+      "email.js",
     ],
     category: "web app",
     github: "https://github.com/anantnipunge/Portfolio",
@@ -342,8 +357,10 @@ export const projects = [
     id: 9,
     title: "Weather App",
     date: "May 2022 - Jun 2022",
-    description: "Front-End Application Implemented using React.js.Displays Real-Time weather Data like Temperature (in degree celsius), Humidity, Fog, Wind Speed, Wind Direction, Pressure, Visibility, Sunset, Sunrise, Users can see weather of chosen city along with country.",
-    image: "https://github.com/anantnipunge/weather_app/assets/82041920/9733e32b-08ae-432b-a9ab-1572166433d0",
+    description:
+      "Front-End Application Implemented using React.js.Displays Real-Time weather Data like Temperature (in degree celsius), Humidity, Fog, Wind Speed, Wind Direction, Pressure, Visibility, Sunset, Sunrise, Users can see weather of chosen city along with country.",
+    image:
+      "https://github.com/anantnipunge/weather_app/assets/82041920/9733e32b-08ae-432b-a9ab-1572166433d0",
     tags: [
       "React.js",
       "JavaScript",
@@ -351,7 +368,7 @@ export const projects = [
       "Openweather API",
       "JudgeO",
       "HTML",
-      "CSS3"
+      "CSS3",
     ],
     category: "web app",
     github: "https://github.com/anantnipunge/weather_app",
@@ -362,8 +379,10 @@ export const projects = [
     id: 9,
     title: "Codespex",
     date: "Jun 2022 - Aug 2022",
-    description: "This is a code editor integrated with compiler, where you can go and code. It can Compile your code on a web app in 10+ programming languages. Users can select their preferred programming language.Users can see either Success or failure ,Memory used and Time required for execution. Users can add the custom input for their code & then JudgeO API call makes which gives desired output. Users can also select the theme from the dropdown menu",
-    image: "https://user-images.githubusercontent.com/82041920/190481586-3378d0a1-6173-4e57-85f9-2808a72e6831.png",
+    description:
+      "This is a code editor integrated with compiler, where you can go and code. It can Compile your code on a web app in 10+ programming languages. Users can select their preferred programming language.Users can see either Success or failure ,Memory used and Time required for execution. Users can add the custom input for their code & then JudgeO API call makes which gives desired output. Users can also select the theme from the dropdown menu",
+    image:
+      "https://user-images.githubusercontent.com/82041920/190481586-3378d0a1-6173-4e57-85f9-2808a72e6831.png",
     tags: [
       "React.js",
       "JavaScript",
@@ -371,7 +390,7 @@ export const projects = [
       "Rapid API",
       "JudgeO",
       "Node.js",
-      "Express.js"
+      "Express.js",
     ],
     category: "web app",
     github: "https://github.com/anantnipunge/code-editor",
@@ -382,9 +401,19 @@ export const projects = [
     id: 0,
     title: "Magnify",
     date: "Apr 2023 - May 2023",
-    description: "Developed a chrome extension which is primarily built for the productivity purpose of all the chrome users.Users can see the time that they have spent on the various websites. It has a dynamic functionality that it resumes the time for the reopened website.(that was closed previously). \n Future scope/plan: Create user profile session and load it to the MongoDB database. History of the particular user gets stored into the database and we will use it for the dataset purpose.It Will help us to predict the user's work and behavior.",
-    image: "https://user-images.githubusercontent.com/82041920/265200189-e3932b78-1534-468d-a8cd-0ca960da2189.png",
-    tags: ["Javascript", "HTML", "Styled CSS", "React Js", "MongoDb", "Node Js", "Express Js"],
+    description:
+      "Developed a chrome extension which is primarily built for the productivity purpose of all the chrome users.Users can see the time that they have spent on the various websites. It has a dynamic functionality that it resumes the time for the reopened website.(that was closed previously). \n Future scope/plan: Create user profile session and load it to the MongoDB database. History of the particular user gets stored into the database and we will use it for the dataset purpose.It Will help us to predict the user's work and behavior.",
+    image:
+      "https://user-images.githubusercontent.com/82041920/265200189-e3932b78-1534-468d-a8cd-0ca960da2189.png",
+    tags: [
+      "Javascript",
+      "HTML",
+      "Styled CSS",
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+    ],
     category: "web app",
     github: "https://github.com/anantnipunge/Magnify",
     webapp: "",
@@ -402,7 +431,7 @@ export const projects = [
         github: "https://github.com/IamSamyak",
       },
     ],
-    activeStatus: "false"
+    activeStatus: "false",
   },
 ];
 

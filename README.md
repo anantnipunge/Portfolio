@@ -4,9 +4,7 @@
 https://anantnipunge.github.io/portfolio/
 
 ## Some Images:
-
-![image](https://github.com/anantnipunge/Portfolio/assets/82041920/8ed43d6d-38bd-43fb-981e-a5cfaa6ed416)
-
+![image](https://github.com/anantnipunge/portfolio/assets/82041920/4e7567a9-7faa-4e65-88df-fffe43a210b2)
 
 ## Table of Contents
 - [Introduction](#introduction)

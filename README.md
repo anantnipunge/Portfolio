@@ -1,8 +1,7 @@
 # Portfolio
 
 ### Scan me
-
-![portfolio_qr](https://github.com/anantnipunge/portfolio/assets/82041920/58ce78d2-9434-4536-bd46-46755892acd6)
+<img src="https://github.com/anantnipunge/portfolio/assets/82041920/58ce78d2-9434-4536-bd46-46755892acd6" alt="Girl in a jacket" style="width:500px;height:600px;">
 
 ### OR
 
